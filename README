@@ -1,13 +1,12 @@
-Este proyecto está basado en mirblu maps, y lo estamos utilizando para demostrar
+Este proyecto estÃ¡ basado en mirblu maps, y lo estamos utilizando para demostrar
 la eficacia de nuestro mapa en exteriores.
 
 Muestra puntos de interes para emprendedores en Salamanca.
 
 Tiene algunos cambios como:
-* Menú basado en matriz.
-* Mejoras en las categorías.
+* MenÃº basado en matriz.
+* Mejoras en las categorÃ­as.
 * Cambios en la interface.
 
-En esta versión vamos a empezar a utilizar github en serio para el control de
-versiones, ya que teníamos bastantes problemas derivados de no usar nada para
-éste fin.
+En esta versiÃ³n vamos a empezar a utilizar github para el control de versiones,
+ya que tenÃ­amos bastantes problemas derivados de no usar nada para Ã©ste fin.

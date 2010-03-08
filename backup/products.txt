@@ -1,0 +1,33 @@
+0|Oficina municipal de turismo de Salamanca|Oficina principal|Plaza Mayor, 32||tel:+034923218342|40
+1|Casa de las Conchas|C/ Compañía, 2|Lunes a Viernes: 9:00 a 21:00 hrs^Sábados: 9:00 a 14:00 y de 16:00 a 19:00 hrs.^Domingos y Festivos: 10:00 a 14:00 y de 16:00 a 19:00 Hrs.^Entrada gratuita.||tel:+034923269317|12
+2|Clerecía y Universidad Pontificia|C/ Compañía.|Miércoles a Viernes: 10:30 a 12:45 y 16:00 a 17:30 hrs.^Sábados y festivos (nacionales): 10:00 a 13:00 y de 16:00 a 17:30 hrs.^Domingos: 10:00 a 13:00 hrs.^Domingos tarde, Lunes y Martes cerrado.^Cerrada del 23/12/09 hasta el 7/01/2010.^Entrada:^- 3 ¤.^- Grupos (a partir de 20 personas): 2 ¤.^Visitas guiadas (consultar directamente).||tel:+034923277100|14
+3|Universidad|C/ Libreros|Lunes a Viernes: 9:30 a 13:00 y de16:00 a 19:00 hrs.^Sábados: 9:30 a 13:00 y de 16:00 a 18:30 hrs.^Domingos y Festivos: 10:00 a 13:00 hrs.^Entrada:^- 4 ¤^- 2 ¤: jubilados/estudiantes/grupos +20^- Gratuita: lunes por la mañana y menores de 12 años^Acceso limitado durante la celebración de actos académicos.^Venta de entradas suspendida media hora antes del cierre.||tel:+0349232944001150|18
+4|Cielo de Salamanca|Patio de Escuelas Menores|Martes a Viernes: 9:30 a 13.30 hrs.y de 16.00 a 18.30 hrs.^Sábados, Domingos y festivos de 10:00 a 14:00 hrs.^Entrada gratuita|||19
+5|Catedral Nueva|Plaza de Anaya|Todos los días: 9:00 a 13:00 y de 16:00 a 18:00 hrs.^Domingos por la tarde cerrado.||tel:+034923217476|8
+6|Catedral Vieja|Plaza de Anaya|Todos los días: 10:00 a 12:30 y de 16:00 a 17:30 hrs.^Entrada:^- 4.75 ¤.^- 4 ¤ (grupos de más de 20 personas).^- 3 ¤ (escolares españoles).^- Entrada gratuita (sólo españoles): martes mañana hasta las 12 hrs.|||9
+7|Ieronimus||Subida a las torres de la Catedral^Entrada por puerta de la Torre, Pza. Juan XXIII.^Todos los días: 10:00 a 17:15 hrs.^Entrada:^- 3,75 ¤.^- 3,25 ¤ (grupos de más de 20 personas).^- Gratuita (sólo para españoles): martes de 10:00 a 12:00 hrs|||10
+8|Convento de Dueñas|Plaza del Concilio de Trento s/n|Lunes a Sábado: 11.00 a 12:45 y 16:30 a 17:30 hrs.^Domingos y festivos cerrado.^Entrada:^- 2 ¤.^- 1 ¤ grupos (+ 20 pax)||tel:+034923215442|20
+9|Convento de San Esteban|Plaza del Concilio de Trento s/n|Todos los días 10:00 a 13:15 (última entrada) y 16:00 a 19:15 hrs (última entrada).^Entrada:^- 3 ¤.^- 2 ¤ (grupos de más de 20).^- Niños gratis hasta 12 años.||tel:+034923215000|6
+10|Palacio de la Salina|C/ San Pablo, 24|En reconstrucción||tel:+034923293233|3
+11|Iglesia de la Purísima|Plaza de las Agustinas|Entrada gratuita.||tel:+034923212738|15
+12|Colegio Arzobispo Fonseca||Todos los días: 10:00 a 13:30 y 16:00 a 19:00 hrs.^Entrada:^- 2 ¤^- 1 ¤: Jubilados/estudiantes/grupos +20||tel:+034923294570|17
+13|Convento y Museo de las Úrsulas|C/ Las Úrsulas, 2|Martes a Domingo: 11:00 a 13:00 y 16:30 a 18:00 hrs.^Entrada: 2 ¤.^NOTA: Último Domingo de mes cerrado.||tel:+034923219877|21
+14|Convento de Santa Clara|C/ Santa Clara, 2|Museo Etnográfico^Lunes a Viernes: de 9:30 a 14:00 y de 16:15 a 19:00.^Sábado, Domingo y festivos: 9:30 a 15:00 hrs (última visita 1 hora antes del cierre).^Entrada:^- 3 ¤.^- 2 ¤: grupos (mínimo 20 personas).||tel:+034923269623|22
+15|Casa de Santa Teresa de Jesús|Plaza de Santa Teresa|Martes a Sábado: 11:00 a 12:30 y 16:30 a 18:00 hrs.^Domingos: 11:00 a 12:30 hrs.^Entrada: La voluntad.||tel:+034923217023|23
+16|Museo de "ART NOUVEAU Y ART DECÓ"|CASA LIS C/ El Expolio, 14|Martes a Viernes: 11:00 a 14:00 y de 16:00 a 19:00 hrs.^Sábados, Domingos y Festivos: 11:00 a 20:00 hrs.^Entrada:^- 3 ¤.^- 2 ¤: jubilados, estudiantes y grupos (más de 10 personas).^- Entrada gratuita los jueves de 11:00 a 14:00 hrs.||tel:+034923121425|24
+17|Museo de Salamanca (Bellas Artes)|C/ Patio de Escuelas, 2.|Martes a Sábados: 10:00 a 14:00 y 16:00 a 19:00 hrs.^Domingos y Festivos: 10:00 a 14:00 hrs.^Lunes: cerrado.^Entrada:^- 1,20 ¤.^- Grupos 0,60 ¤.^- Sábado y domingo entrada gratuita.||tel:+034923212235|25
+18|Casa-Museo de Unamuno|C/ Libreros, 25|Martes a Viernes: 9:30 a 13:30 y de 16:00 a 18:00 hrs.^Sábados, Domingos y Festivos: 10:00 a 13:30 hrs.^Entrada:^- 3 ¤.^- 1'50 ¤ grupos, estudiantes y jubilados.^Entrada gratuita estudiantes de Salamanca.||tel:+0349232944001196|26
+19|Huerto de Calixto y Melibea||En recostrucción^Entrada gratuita.|||27
+20|Museo Taurino|C/ Doctor Piñuela, 5-7|Martes a Sábados: 11: 30 a 13.30 y 18:00 a 20:00 hrs.^Domingos y festivos: 11:30 a 13:30 hrs.^Lunes: cerrado.^Entrada:^- 3 ¤.^- 2 ¤: pensionistas.^- 1'50 ¤: grupos (más de 20 personas).^- Entrada gratuita: niños de hasta 12 años.||tel:+034923219425|28
+21|Logia Masónica|C/ El Expolio, 2|De Martes a Domingo: 17:00 a 20:00 hrs.^Entrada gratuita.^Grupos: visitas guiadas previa consulta concertada de 15 y 25 personas.||tel:+034923212535|29
+22|"Artilugios para Fascinar"|C/ Gonzalo Santana, 1|Filmoteca de Castilla y León^Colección aparatos relacionados con la imagen^Lunes a Viernes: 11:00 a 14:00 y 17:00 a 20:00 hrs.^Sábados, Domingos y Festivos: 11:00 a 14:00 hrs.^Entrada gratuita.||tel:+034923212516|30
+23|"La medida del tiempo"|Calle Compañía, 43|Colección relojes populares^Lunes a Viernes: 11:00 a 14:00 y 17:00 a 20:00 hrs.^Sábados, Domingos y Festivos: 11:00 a 14:00 hrs.^Entrada gratuita.|||31
+24|Museo de la fabrica de Harinas|Antiguo molino de Salamanca^Todos los días: 12:00 a 24:00 hrs.^Entrada gratuita.|C/ La Pesca, 5. Junto a Puente Romano.||tel:+034923281628|0
+25|Museo de Historia de la Automoción|Plaza Mercado Viejo s/n|Martes a Domingo : 10:00 a 14:00 y 17.00 a 20:00 hrs.^Entrada:^- 3 ¤.^- 2 ¤: estudiantes, jubilados y grupos.^Gratuita el primer martes de cada mes (de 17:00 a 20:00 hrs).||tel:+034923260293|33
+26|Domus Artium|Avda. de la Aldehuela s/n|Martes a Viernes: 12:00 a 14:30 y 16:30 a 21:00 hrs.^Sábados, Domingos y Festivos: 11:00 a 21:00 hrs.^Entrada gratuita.^Visitas guiadas: sábados y domingos 12:00, 13:00, 18:00 y 19:00 hrs.||tel:+034923184916|34
+27|Iglesia de San Marcos|C/ Puerta Zamora|Entrada gratuita.|||35
+28|Iglesia de San Martín|Plaza del Corrillo|Entrada gratuita.|||36
+29|Iglesia de Sancti Spíritus|Entrada gratuita.|Cuesta de Sancti Spíritus.|||2
+30|Cueva de Salamanca|Cuesta Carvajal|Lunes a Domingo: de 10.00 hasta la puesta del sol. ^Viernes y Sábados: AUDIOVISUAL: 19:30 a 21:00 hrs.^Entrada gratuita.|||37
+31|Museo de Comercio e Industria||Martes a Sábado: 10:00 a 14:00 y 17:00 a 20:00 hrs.^Domingos: 11:00 a 15:00 hrs.^Entrada gratuita.||tel:+034923238402|38
+32|Casa Museo Zacarías González|C/ Alarcón, 26|Viernes y Sábados: 11:00 a 14:00 y de 18.00 a 20:00 hrs.^Domingos y festivos: 11:00 a 14:00 hrs.^Entrada gratuita.||tel:+034923263953|0

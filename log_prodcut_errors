@@ -1,0 +1,236 @@
+    PRODUCT 0
+
+id = 0
+name = Oficina municipal de turismo de Salamanca
+title = Oficina principal
+descrip = Plaza Mayor, 32
+icon = 
+uri = tel:+034923218342
+hotspot = 40
+
+
+    PRODUCT 1
+
+id = 1
+name = Casa de las Conchas
+title = Lunes a Viernes: 9:00 a 21:00 hrs^SÃ¡bados: 9:00 a 14:00 y de 16:00 a 19:00 hrs.^Domingos y Festivos: 10:00 a 14:00 y de 16:00 a 19:00 Hrs.^Entrada gratuita.
+descrip = C/ CompaÃ±Ã­a, 2
+icon = 
+uri = tel:+034923269317
+hotspot = 12
+
+
+    PRODUCT 2
+
+id = 2
+name = ClerecÃ­a y Universidad Pontificia
+title = MiÃ©rcoles a Viernes: 10:30 a 12:45 y 16:00 a 17:30 hrs.^SÃ¡bados y festivos (nacionales): 10:00 a 13:00 y de 16:00 a 17:30 hrs.^Domingos: 10:00 a 13:00 hrs.^Domingos tarde, Lunes y Martes cerrado.^Cerrada del 23/12/09 hasta el 7/01/2010.^Entrada:^- 3 â¬.^- Grupos (a partir de 20 personas): 2 â¬.^Visitas guiadas (consultar directamente).
+descrip = C/ CompaÃ±Ã­a.
+icon = 
+uri = tel:+034923277100
+hotspot = 14
+
+Product bad format: 3|Universidad||Lunes a Viernes: 9:30 a 13:00 y de16:00 a 19:00 hrs.^SÃ¡bados: 9:30 a 13:00 y de 16:00 a 18:30 hrs.^Domingos y Festivos: 10:00 a 13:00 hrs.^Entrada:^- 4 â¬^- 2 â¬: jubilados/estudiantes/grupos +20^- Gratuita: lunes por la maÃ±ana y menores de 12 aÃ±os^Acceso limitado durante la celebraciÃ³n de actos acadÃ©micos.^Venta de entradas suspendida media hora antes del cierre.|C/ Libreros||telf:+0349232944001150|18
+expected 7 found 8
+Product bad format: 4|Cielo de Salamanca||Martes a Viernes: 9:30 a 13.30 hrs.y de 16.00 a 18.30 hrs.SÃ¡bados, Domingos y festivos de 10:00 a 14:00 hrs.^Entrada gratuita.|Patio de Escuelas Menores.|||19
+expected 7 found 8
+Product bad format: 5|Catedral Nueva||Todos los dÃ­as: 9:00 a 13:00 y de 16:00 a 18:00 hrs.^Domingos por la tarde cerrado.|Plaza de Anaya.||telf:+034923217476|8
+expected 7 found 8
+Product bad format: 6|Catedral Vieja||Todos los dÃ­as: 10:00 a 12:30 y de 16:00 a 17:30 hrs.^Entrada:^- 4.75 â¬.^- 4 â¬ (grupos de mÃ¡s de 20 personas).^- 3 â¬ (escolares espaÃ±oles).^- Entrada gratuita (sÃ³lo espaÃ±oles): martes maÃ±ana hasta las 12 hrs.|Plaza de Anaya.|||9
+expected 7 found 8
+Product bad format: 7|Ieronimus||subida a las torres de la Catedral^Entrada por puerta de la Torre, Pza. Juan XXIII.^Todos los dÃ­as: 10:00 a 17:15 hrs.^Entrada:^- 3,75 â¬.^- 3,25 â¬ (grupos de mÃ¡s de 20 personas).^- Gratuita (sÃ³lo para espaÃ±oles): martes de 10:00 a 12:00 hrs||||10
+expected 7 found 8
+Product bad format: 8|Convento de DueÃ±as||Lunes a SÃ¡bado: 11.00 a 12:45 y 16:30 a 17:30 hrs.^Domingos y festivos cerrado.^Entrada:^- 2 â¬.^- 1 â¬ grupos (+ 20 pax)|Plaza del Concilio de Trento s/n.||tel:+034923215442|20
+expected 7 found 8
+
+    PRODUCT 9
+
+id = 9
+name = Convento de San Esteban
+title = Todos los dÃ­as 10:00 a 13:15 (Ãºltima entrada) )y 16:00 a 19:15 hrs (Ãºltima entrada).^Entrada:^- 3 â¬.^- 2 â¬ (grupos de mÃ¡s de 20).^- NiÃ±os gratis hasta 12 aÃ±os.
+descrip = Plaza del Concilio de Trento s/n.
+icon = 
+uri = tel:+034923215000
+hotspot = 6
+
+
+    PRODUCT 10
+
+id = 10
+name = Palacio de la Salina
+title = En reconstrucciÃ³n
+descrip = C/ San Pablo, 24.
+icon = 
+uri = tel:+034923293233
+hotspot = 3
+
+
+    PRODUCT 11
+
+id = 11
+name = Iglesia de la PurÃ­sima
+title = Entrada gratuita.
+descrip = Plaza de las Agustinas.
+icon = 
+uri = tel:+034923212738
+hotspot = 15
+
+Product bad format: 12|Colegio Arzobispo Fonseca|Todos los dÃ­as: 10:00 a 13:30 y 16:00 a 19:00 hrs.^Entrada:^- 2 â¬^- 1 â¬: Jubilados/estudiantes/grupos +20||tel:+034923294570|17
+expected 7 found 6
+
+    PRODUCT 13
+
+id = 13
+name = Convento y Museo de las Ãrsulas
+title = Martes a Domingo: 11:00 a 13:00 y 16:30 a 18:00 hrs.^Entrada: 2 â¬.^NOTA: Ãltimo Domingo de mes cerrado.
+descrip = C/ Las Ãrsulas, 2.
+icon = 
+uri = tel:+034923219877
+hotspot = 21
+
+Product bad format: 14||Convento de Santa Clara|Museo EtnogrÃ¡fico^Lunes a Viernes: de 9:30 a 14:00 y de 16:15 a 19:00.^SÃ¡bado, Domingo y festivos: 9:30 a 15:00 hrs (Ãºltima visita 1 hora antes del cierre).^Entrada:^- 3 â¬.^- 2 â¬: grupos (mÃ­nimo 20 personas).|C/ Santa Clara, 2.||tel:+034923269623|22
+expected 7 found 8
+
+    PRODUCT 15
+
+id = 15
+name = Casa de Santa Teresa de JesÃºs
+title = Martes a SÃ¡bado: 11:00 a 12:30 y 16:30 a 18:00 hrs.^Domingos: 11:00 a 12:30 hrs.^Entrada: La voluntad.
+descrip = Plaza de Santa Teresa.
+icon = 
+uri = tel:+034923217023
+hotspot = 23
+
+Product bad format: 16|Museo de "ART NOUVEAU Y ART DECÃ"|Martes a Viernes: 11:00 a 14:00 y de 16:00 a 19:00 hrs.^SÃ¡bados, Domingos y Festivos: 11:00 a 20:00 hrs.^Entrada:^- 3 â¬.^- 2 â¬: jubilados, estudiantes y grupos (mÃ¡s de 10 personas).^- Entrada gratuita los jueves de 11:00 a 14:00 hrs.|CASA LIS|C/ El Expolio, 14.||tel:+034923121425|24
+expected 7 found 8
+
+    PRODUCT 17
+
+id = 17
+name = Museo de Salamanca (Bellas Artes)
+title = Martes a SÃ¡bados: 10:00 a 14:00 y 16:00 a 19:00 hrs.^Domingos y Festivos: 10:00 a 14:00 hrs.^Lunes: cerrado.^Entrada:^- 1,20 â¬.^- Grupos 0,60 â¬.^- SÃ¡bado y domingo entrada gratuita.
+descrip = C/ Patio de Escuelas, 2.
+icon = 
+uri = tel:+034923212235
+hotspot = 25
+
+
+    PRODUCT 18
+
+id = 18
+name = Casa-Museo de Unamuno
+title = Martes a Viernes: 9:30 a 13:30 y de 16:00 a 18:00 hrs.^SÃ¡bados, Domingos y Festivos: 10:00 a 13:30 hrs.^Entrada:^- 3 â¬.^- 1'50 â¬ grupos, estudiantes y jubilados.^Entrada gratuita estudiantes de Salamanca.
+descrip = C/ Libreros, 25.
+icon = 
+uri = tel:+0349232944001196
+hotspot = 26
+
+
+    PRODUCT 19
+
+id = 19
+name = Huerto de Calixto y Melibea
+title = En recostrucciÃ³n^Entrada gratuita.
+descrip = 
+icon = 
+uri = 
+hotspot = 27
+
+
+    PRODUCT 20
+
+id = 20
+name = Museo Taurino
+title = Martes a SÃ¡bados: 11: 30 a 13.30 y 18:00 a 20:00 hrs.^Domingos y festivos: 11:30 a 13:30 hrs.^Lunes: cerrado.^Entrada:^- 3 â¬.^- 2 â¬: pensionistas.^- 1'50 â¬: grupos (mÃ¡s de 20 personas).^- Entrada gratuita: niÃ±os de hasta 12 aÃ±os.
+descrip = C/ Doctor PiÃ±uela, 5-7.
+icon = 
+uri = tel:+034923219425
+hotspot = 28
+
+
+    PRODUCT 21
+
+id = 21
+name = Logia MasÃ³nica
+title = De Martes a Domingo: 17:00 a 20:00 hrs.^Entrada gratuita.^Grupos: visitas guiadas previa consulta concertada de 15 y 25 personas.
+descrip = C/ El Expolio, 2.
+icon = 
+uri = tel:+034923212535
+hotspot = 29
+
+
+    PRODUCT 22
+
+id = 22
+name = "Artilugios para Fascinar"
+title = Filmoteca de Castilla y LeÃ³n^(ColecciÃ³n aparatos relacionados con la imagen)^Lunes a Viernes: 11:00 a 14:00 y 17:00 a 20:00 hrs.^SÃ¡bados, Domingos y Festivos: 11:00 a 14:00 hrs.^Entrada gratuita.
+descrip = C/ Gonzalo Santana, 1.
+icon = 
+uri = tel:+034923212516
+hotspot = 30
+
+
+    PRODUCT 23
+
+id = 23
+name = "La medida del tiempo"
+title = ColecciÃ³n relojes populares^Lunes a Viernes: 11:00 a 14:00 y 17:00 a 20:00 hrs.^SÃ¡bados, Domingos y Festivos: 11:00 a 14:00 hrs.^Entrada gratuita.
+descrip = Calle CompaÃ±Ã­a, 43.
+icon = 
+uri = 
+hotspot = 31
+
+Product bad format: 24|Museo de la fabrica de Harinas|Antiguo molino de Salamanca^Todos los dÃ­as: 12:00 a 24:00 hrs.^Entrada gratuita.|C/ La Pesca, 5. Junto a Puente Romano.||tel:+034923281628
+expected 7 found 6
+
+    PRODUCT 25
+
+id = 25
+name = Museo de Historia de la AutomociÃ³n
+title = Martes a Domingo : 10:00 a 14:00 y 17.00 a 20:00 hrs.^Entrada:^- 3 â¬.^- 2 â¬: estudiantes, jubilados y grupos.^Gratuita el primer martes de cada mes (de 17:00 a 20:00 hrs).
+descrip = Plaza Mercado Viejo s/n.
+icon = 
+uri = tel:+034923260293
+hotspot = 33
+
+
+    PRODUCT 26
+
+id = 26
+name = Domus Artium
+title = Martes a Viernes: 12:00 a 14:30 y 16:30 a 21:00 hrs.^SÃ¡bados, Domingos y Festivos: 11:00 a 21:00 hrs.^Entrada gratuita.^Visitas guiadas: sÃ¡bados y domingos 12:00, 13:00, 18:00 y 19:00 hrs.
+descrip = Avda. de la Aldehuela s/n.
+icon = 
+uri = tel:+034923184916
+hotspot = 34
+
+
+    PRODUCT 27
+
+id = 27
+name = Iglesia de San Marcos
+title = Entrada gratuita.
+descrip = C/ Puerta Zamora.
+icon = 
+uri = 
+hotspot = 35
+
+
+    PRODUCT 28
+
+id = 28
+name = Iglesia de San MartÃ­n
+title = Entrada gratuita.
+descrip = Plaza del Corrillo.
+icon = 
+uri = 
+hotspot = 36
+
+Product bad format: 29|Iglesia de Sancti Spiritu|Entrada gratuita.|Cuesta de Sancti SpÃ­ritus.||||2
+expected 7 found 8
+Product bad format: 30|Cueva de Salamanca|Lunes a Domingo: de 10.00 hasta la puesta del sol. Viernes y SÃ¡bados: AUDIOVISUAL: 19:30 a 21:00 hrs.^Entrada gratuita.|Cuesta Carvajal.||||37
+expected 7 found 8
+Product bad format: 31|Museo de Comercio e Industria|Martes a SÃ¡bado: 10:00 a 14:00 y 17:00 a 20:00 hrs.^Domingos: 11:00 a 15:00 hrs.^Entrada gratuita.||tel:+034923238402|38
+expected 7 found 6
+Product bad format: 32|Casa Museo ZacarÃ­as GonzÃ¡lez|Viernes y SÃ¡bados: 11:00 a 14:00 y de 18.00 a 20:00 hrs.^Domingos y festivos: 11:00 a 14:00 hrs.^Entrada gratuita.|C/ AlarcÃ³n, 26.||tel:+034923263953
+expected 7 found 6

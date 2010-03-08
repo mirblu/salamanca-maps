@@ -1,0 +1,6 @@
+0|Destacados||cn.png|1,2,5,6,7,13
+1|Monumentos||cn.png|0,1,2,3,5,6
+2|Las pequeñas iglesias||cn.png|11,13
+3|Espacios entreabiertos, conventos||cn.png|8,9,14
+4|Teatros y auditorios||cn.png|
+5|Museos y salas de exposiciones||cn.png|7,10,12

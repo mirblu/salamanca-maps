@@ -1,0 +1,15 @@
+0|Alcaldía|Plaza Mayor|9:00 a 14:00|||tel:+034923279100 http://www.aytosalamanca.es|1
+1|Casa de las Conchas|C/ Compañía, 2|Lunes a Viernes: 9:00 a 21:00 hrs^ Sábados: 9:00 a 14:00 y de 16:00 a 19:00 hrs.^ Domingos y Festivos: 10:00 a 14:00 y de 16:00 a 19:00 Hrs.^ Entrada gratuita.|/productPics/clere.jpg||tel:+034923269317|10
+2|Clerecía y Universidad Pontificia|C/ Compañía.|Miércoles a Viernes: 10:30 a 12:45 y 16:00 a 17:30 hrs.^ Sábados y festivos (nacionales): 10:00 a 13:00 y de 16:00 a 17:30 hrs.^ Domingos: 10:00 a 13:00 hrs.^ Domingos tarde, Lunes y Martes cerrado.^ Cerrada del 23/12/09 hasta el 7/01/2010.^ Entrada:^ - 3 euros.^ - Grupos (a partir de 20 personas): 2 euros.^ Visitas guiadas (consultar directamente).|/productPics/clere.jpg||tel:+034923277100|11
+3|Universidad|C/ Libreros|Lunes a Viernes: 9:30 a 13:00 y de16:00 a 19:00 hrs.^ Sábados: 9:30 a 13:00 y de 16:00 a 18:30 hrs.^ Domingos y Festivos: 10:00 a 13:00 hrs.^ Entrada:^ - 4 euros^ - 2 euros: jubilados/estudiantes/grupos +20^ - Gratuita: lunes por la mañana y menores de 12 años^ Acceso limitado durante la celebración de actos académicos.^ Venta de entradas suspendida media hora antes del cierre.|||tel:+0349232944001150|15
+4|Cielo de Salamanca|Patio de Escuelas Menores|Martes a Viernes: 9:30 a 13.30 hrs.y de 16.00 a 18.30 hrs.^ Sábados, Domingos y festivos de 10:00 a 14:00 hrs.^ Entrada gratuita||||16
+5|Catedral Nueva|Plaza de Anaya|Todos los días: 9:00 a 13:00 y de 16:00 a 18:00 hrs.^ Domingos por la tarde cerrado.|/productPics/cate.jpg||tel:+034923217476|6
+6|Catedral Vieja|Plaza de Anaya|Todos los días: 10:00 a 12:30 y de 16:00 a 17:30 hrs.^ Entrada:^ - 4.75 euros.|/productPics/cate.jpg|||6
+7|Ieronimus||Subida a las torres de la Catedral^ Entrada por puerta de la Torre, Pza. Juan XXIII.^ Todos los días: 10:00 a 17:15 hrs.^ Entrada:^ - 3,75 euros.|/productPics/ie.jpg|||6
+8|Convento de Dueñas|Plaza del Concilio de Trento s/n|Lunes a Sábado: 11.00 a 12:45 y 16:30 a 17:30 hrs.^ Domingos y festivos cerrado.^ Entrada:^ - 2 euros.^ - 1 euros grupos (+ 20 pax)|||tel:+034923215442|17
+9|Convento de San Esteban|Plaza del Concilio de Trento s/n|Todos los días 10:00 a 13:15 (última entrada) y 16:00 a 19:15 hrs (última entrada).^ Entrada:^ - 3 euros.^ - 2 euros (grupos de más de 20).^ - Niños gratis hasta 12 años.|||tel:+034923215000|8
+10|Palacio de la Salina|C/ San Pablo, 24|En reconstrucción|||tel:+034923293233|4
+11|Iglesia de la Purísima|Plaza de las Agustinas|Entrada gratuita.|||tel:+034923212738|12
+12|Colegio Arzobispo Fonseca||Todos los dí­as: 10:00 a 13:30 y 16:00 a 19:00 hrs.^ Entrada:^ - 2 euros^ - 1 euros: Jubilados/estudiantes/grupos +20|||tel:+034923294570|14
+13|Huerto de Calixto y Melibea||En recostrucción^ Entrada gratuita.|/productPics/hue.jpg|||18
+14|Iglesia de Sancti Spíritus||Cuesta de Sancti Spíritus.^Entrada gratuita.||||3

@@ -1,0 +1,43 @@
+0|Plaza Mayor
+1|Torre del Aire
+2|Iglesia de Sancti Spiritus
+3|Palacio de la Salina
+4|Torre del Clavero
+5|Colegio de Calatraba
+6|Convento e Iglesia de San Esteban
+7|Colegio de Anaya
+8|Catedral Nueva
+9|Catedral Vieja
+10|Torres de la Catedral
+10|Ieronimus
+11|Puente Romano
+12|Casa de las Conchas
+13|Iglesia de la Clerec�a
+14|Universidad Pontificia
+15|Iglesia de la Pur�sima
+16|Palacio de Monterrey
+17|Colegio del Arzovispo Fonseca
+18|Universidad
+19|Patio de escuelas menores
+19|Cielo de Salamanca
+20|Convento de las Dueñas
+21|Convento de las Úrsulas
+22|Convento de Santa Clara
+23|Casa de Santa Teresa de Jesús
+24|Casa de Lis
+25|Museo de Bellas Artes
+26|Casa de Unamuno
+27|Huerto de Calixto y Melibea
+28|Museo Taurino
+29|Logia Masónica
+30|Filmoteca
+30|Artilugios para Fascinar
+31|La medida del tiempo
+32|Museo de la fabricación de la Harina
+33|Museo de la historia de la automoción
+34|Domus Artium
+35|Iglesia de San Marcos
+36|Iglesia de San Mart�n
+37|Cueva de Salamanca
+38|Museo de Comercio e Industria
+39|Casa de Zacarías González

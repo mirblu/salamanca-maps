@@ -1,0 +1,26 @@
+1|Plaza Mayor
+2|Torre del Aire
+3|Iglesia de Sancti Spiritus
+4|Palacio de la Salina
+5|Colegio de Anaya
+6|Catedral Nueva
+6|Catedral Vieja
+6|Torres de la Catedral
+6|Ieronimus
+7|Colegio de Calatrava
+8|Convento de San Esteban
+8|Iglesia de San Esteban
+9|Puente Romano
+10|Casa de las Conchas
+11|Universidad Pontificia
+11|Iglesia de la Clerecia
+12|Iglesia de la Purí­sima
+13|Palacio de Monterrey
+14|Colegio del Arzovispo Fonseca
+15|Edificios históricos de la Universidad
+16|Patio de Escuelas Menores
+16|Cielo de Salamanca
+17|Convento de las Dueñas
+18|Plaza de la Merced
+18|Calixto y Melivea
+19|Puerta Zamora
